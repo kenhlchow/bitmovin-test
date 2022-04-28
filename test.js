@@ -1,5 +1,5 @@
 const config = {
-  "key": "9042ce90-9b8f-43f2-bf1a-5bb20bf30655",
+  "key": "79727bd9-f542-46a6-b585-dffd44b18dcf",
   logs: {
       level: "debug"
   },
